@@ -6,7 +6,7 @@ if (10 <= 20) {//if this is true
 
 // > greater then
 // >= greater then or equal to
-if (20 >= 10) {
+if (22 >= 10) {
     console.log("20 is greater then 10");
 }
 
